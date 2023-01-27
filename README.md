@@ -1,4 +1,11 @@
-# Getting Started with Create React App
+# Todo Web Application
+- This is a todo web application built with ReactJs, ExpressJs and PostgreSQL
+
+## Links
+- Figma: [Click Here]()
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
